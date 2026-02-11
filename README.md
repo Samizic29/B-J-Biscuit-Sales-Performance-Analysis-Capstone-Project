@@ -65,7 +65,7 @@ The analysis reveals strong early-year performance, high-earning biscuit product
 ## 📌 Full Documentation
 The complete project report—including detailed methodology, visualizations, DAX formulas, and business recommendations—is available on Medium:
 
-👉 Read the full project breakdown here: [Medium Article Link]()
+👉 Read the full project breakdown here: [Medium Article Link](https://medium.com/@samueloyedele/b-j-biscuit-sales-performance-analysis-5601e491b39d)
 
 ---
 
@@ -84,4 +84,5 @@ The complete project report—including detailed methodology, visualizations, DA
 Feel free to reach out for feedback, collaboration, or project discussions.
 
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oyedele-samuel-53579b19b)
+    
     Email: samueloyedele15@gmail.com
