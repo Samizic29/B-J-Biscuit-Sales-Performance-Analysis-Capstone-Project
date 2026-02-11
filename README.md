@@ -1,4 +1,4 @@
-# B-J-Biscuit-Sales-Performance-Analysis-Capstone-Project
+# 📊 B-J-Biscuit-Sales-Performance-Analysis-Capstone-Project
 This project presents an end-to-end data analytics workflow for analyzing sales performance at B & J Biscuit Company. 
 
 ## 🎯 Objective
@@ -13,12 +13,12 @@ The B & J Biscuit Company experienced inconsistent sales patterns and needed cla
 ---
 
 ## 📁 Project Structure
-- Phase 1: Data Wrangling (Python)
-Cleaning, standardizing, transforming, and merging multiple datasets.
-- Phase 2: Exploratory Data Analysis (Python)
-Identifying trends, patterns, and insights across product, customer, and operational dimensions.
-- Phase 3: Interactive Dashboard (Excel)
-Dynamic KPI visuals, slicers, DAX measures, and a VBA-enabled reset button.
+- **Phase 1: Data Wrangling (Python)**
+  Cleaning, standardizing, transforming, and merging multiple datasets.
+- **Phase 2: Exploratory Data Analysis (Python)**
+  Identifying trends, patterns, and insights across product, customer, and operational dimensions.
+- **Phase 3: Interactive Dashboard (Excel)**
+  Dynamic KPI visuals, slicers, DAX measures, and a VBA-enabled reset button.
 
 ---
 
@@ -80,6 +80,8 @@ The complete project report—including detailed methodology, visualizations, DA
 ## 📝 Author
 ### Samuel Oyedele
 **Data Analyst | BI Developer**
+
 Feel free to reach out for feedback, collaboration, or project discussions.
+
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/oyedele-samuel-53579b19b)
     Email: samueloyedele15@gmail.com
