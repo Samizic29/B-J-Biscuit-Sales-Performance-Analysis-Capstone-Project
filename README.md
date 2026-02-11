@@ -13,47 +13,47 @@ The B & J Biscuit Company experienced inconsistent sales patterns and needed cla
 ---
 
 ## 📁 Project Structure
-•	Phase 1: Data Wrangling (Python)
+- Phase 1: Data Wrangling (Python)
 Cleaning, standardizing, transforming, and merging multiple datasets.
-•	Phase 2: Exploratory Data Analysis (Python)
+- Phase 2: Exploratory Data Analysis (Python)
 Identifying trends, patterns, and insights across product, customer, and operational dimensions.
-•	Phase 3: Interactive Dashboard (Excel)
+- Phase 3: Interactive Dashboard (Excel)
 Dynamic KPI visuals, slicers, DAX measures, and a VBA-enabled reset button.
 
 ---
 
 ## 📌 Key Features
 ### ✔ Data Cleaning
-•	Fixed messy date formats (Excel serial numbers)
-•	Standardized gender, payment methods, and sales representative names
-•	Merged product lookup table with transaction data
-•	Engineered new fields (Year, Month, Age, Quarter, Total Sales, etc.)
+- Fixed messy date formats (Excel serial numbers)
+- Standardized gender, payment methods, and sales representative names
+- Merged product lookup table with transaction data
+- Engineered new fields (Year, Month, Age, Quarter, Total Sales, etc.)
 
 ### ✔ Exploratory Insights
-• **January** recorded the highest sales; strong Q1 performance but decline in Q4
-•	**Shortbread** & **Vanilla Wafers** are top-revenue products
-•	**Travis Doyle** & **Joseph Hill** are the best-performing sales representatives
-•	Customers aged **30–60** drive most purchases
-•	Below **age 30** has the *lowest sales*, unusual for a biscuit company
-•	**San Antonio** & **San Jose** outperform other locations
-•	**Credit Card** is the dominant payment method
+- **January** recorded the highest sales; strong Q1 performance but decline in Q4
+- **Shortbread** & **Vanilla Wafers** are top-revenue products
+- **Travis Doyle** & **Joseph Hill** are the best-performing sales representatives
+- Customers aged **30–60** drive most purchases
+- Below **age 30** has the *lowest sales*, unusual for a biscuit company
+- **San Antonio** & **San Jose** outperform other locations
+- **Credit Card** is the dominant payment method
 
 ### ✔ Dashboard KPIs (Excel Power Pivot)
-•	Total Revenue
-•	COGS
-•	Profit
-•	Quantity Sold
-•	Previous Month (PM) & MoM% Change
+- Total Revenue
+- COGS
+- Profit
+- Quantity Sold
+- Previous Month (PM) & MoM% Change
 
 Includes slicers for: **Date**, **Product Category**, and **Sales Rep**.
 
 ---
 
 ## 📌 Tools Used
-•	**Python** → Pandas, NumPy, Matplotlib/Seaborn
-•	**Excel** → Power Query, Power Pivot, DAX, VBA
-•	**GitHub** for project versioning
-•	**Medium** for full project documentation
+- **Python** → Pandas, NumPy, Matplotlib/Seaborn
+- **Excel** → Power Query, Power Pivot, DAX, VBA
+- **GitHub** for project versioning
+- **Medium** for full project documentation
 
 ---
 
@@ -64,13 +64,16 @@ The analysis reveals strong early-year performance, high-earning biscuit product
 
 ## 📌 Full Documentation
 The complete project report—including detailed methodology, visualizations, DAX formulas, and business recommendations—is available on Medium:
+
 👉 Read the full project breakdown here: [Medium Article Link]()
 
+---
+
 ## 📎 Project Files
-•	Cleaned dataset
-•	Python Jupyter Notebook
-•	Excel interactive dashboard
-•	Documentation & insights
+- Cleaned dataset
+- Python Jupyter Notebook
+- Excel interactive dashboard
+- Documentation & insights
 
 ---
 
